@@ -69,7 +69,7 @@ function writeToFile(fileName, data) {
 // Function to initialize program
 function init() {
   inquirer.prompt(questions).then((data) => {
-    const fileName = 'README_demo.md';
+    const fileName = 'README_sample.md';
     writeToFile(fileName, data);
   });
 }

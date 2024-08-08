@@ -47,10 +47,8 @@ function generateMarkdown(data) {
   6. [Questions](#questions)
 
   ## Installation
-  To install the necessary dependencies, run the following command:
-  \`\`\`
+  To install the application, follow these steps:
   ${data.installation}
-  \`\`\`
 
   ## Usage
   ${data.usage}
@@ -62,12 +60,13 @@ function generateMarkdown(data) {
 
   ## Tests
   To run tests, run the following command:
-  \`\`\`
   ${data.testing}
-  \`\`\`
+
 
   ## Questions
-  If you have any questions about this repo, open an issue or contact me directly at [${data.email}](mailto:${data.email}). You can find more of my work at [${data.github}](https://www.github.com/${data.github}).
+  If you have any questions about this project, feel free to email me at 
+  ${data.email}. 
+  You can find more of my work at <https://www.github.com/${data.github}>.
 `;
 }
 
