@@ -23,8 +23,7 @@
 
 
   ## Usage
-
-
+![README_GENERATOR PROJECT screenshot](assets/readme_generator.jpg)
 
   ## Credits
 
