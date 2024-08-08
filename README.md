@@ -25,7 +25,12 @@
   ## Usage
 ![README_GENERATOR PROJECT screenshot](assets/readme_generator.jpg)
 
-[![Watch the video](https://raw.githubusercontent.com/rmburgos/readme_generator/main/assets/readme_thumbnail.png)](https://raw.githubusercontent.com/rmburgos/readme_generator/main/assets/readme_generator.mp4)
+
+
+https://github.com/user-attachments/assets/f3f9c421-85fe-4bd9-80e0-d78b903ec1d3
+
+
+
 
   ## Credits
 
