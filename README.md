@@ -25,6 +25,8 @@
   ## Usage
 ![README_GENERATOR PROJECT screenshot](assets/readme_generator.jpg)
 
+[![Watch the video](https://raw.githubusercontent.com/rmburgos/readme_generator/main/assets/readme_thumbnail.png)](https://raw.githubusercontent.com/rmburgos/readme_generator/main/assets/readme_generator.mp4)
+
   ## Credits
 
 \*\*This project was accomplished with the help provided by the instructors and TAs of the Rice University Coding Bootcamp, including Instructor Darian Mendez, Mateo Wallace, Mark Alfano, Gerard Mennella
