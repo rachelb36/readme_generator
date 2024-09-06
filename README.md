@@ -24,7 +24,7 @@
 
   ## Usage
 
-- Link to walkthrough video <https://youtu.be/UvC3SZefDy4
+- Link to walkthrough video <https://youtu.be/UvC3SZefDy4>
 
   
 ![README_GENERATOR PROJECT screenshot](assets/readme_generator.jpg)
